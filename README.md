@@ -1,5 +1,6 @@
 # Todo-List
-A simple Todo List Webapp built using Reactjs and Redux Toolkit.
+A simple Todo List Webapp built using Reactjs and Redux Toolkit.<br>
+<sub>The app does not persist tasks when it is reloaded.</sub>
 
 ## Getting Started with Vite
 This project was bootstrapped with [Vite](https://vitejs.dev/).
